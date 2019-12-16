@@ -1,0 +1,13 @@
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\bin\Debug\Asg2-klh170130.exe.config
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\bin\Debug\Asg2-klh170130.exe
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\bin\Debug\Asg2-klh170130.pdb
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\obj\Debug\Asg2-klh170130.csprojResolveAssemblyReference.cache
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\obj\Debug\Asg2_klh170130.frmRebate.resources
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\obj\Debug\Asg2_klh170130.Properties.Resources.resources
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\obj\Debug\Asg2-klh170130.csproj.GenerateResource.Cache
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\obj\Debug\Asg2-klh170130.csproj.CoreCompileInputs.cache
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\obj\Debug\Asg2-klh170130.exe
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\obj\Debug\Asg2-klh170130.pdb
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\bin\Debug\en\Asg2-klh170130.resources.dll
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\obj\Debug\Asg2_klh170130.frmRebate.en.resources
+D:\Restricted\UTDallas\Projects\CShapes\Asg2-klh170130\Asg2-klh170130\obj\Debug\en\Asg2-klh170130.resources.dll

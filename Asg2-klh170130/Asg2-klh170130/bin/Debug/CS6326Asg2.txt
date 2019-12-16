@@ -1,0 +1,10 @@
+Aaaaaaaaaa1	F	Bbbbbbbbbb1	123 Main Street	*	Dallas	TX	75001	F	1112223333	abc@utdallas.edu	Yes	9/29/2019	9/29/2019 12:21:52 PM	9/29/2019 12:22:37 PM	0
+Aaaaaaaaaa2	F	Bbbbbbbbbb	123 Main Street	*	Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	9/29/2019	9/29/2019 12:22:43 PM	9/29/2019 12:23:31 PM	0
+Aaaaaaaaaa3	F	Bbbbbbbbbb	123 Main Street	*	Dallas	TX	75001	F	1112223333	abc@utdallas.edu	Yes	9/29/2019	9/29/2019 12:23:34 PM	9/29/2019 12:24:06 PM	0
+Aaaaaaaaaa4	F	Bbbbbbbbbb	123 Main Street	*	Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	9/29/2019	9/29/2019 12:24:09 PM	9/29/2019 12:24:49 PM	1
+Aaaaaaaaaa5	F	Bbbbbbbbbb	123 Main Street	*	Dallas	TX	75001	F	1112223333	abc@utdallas.edu	Yes	9/29/2019	9/29/2019 12:24:52 PM	9/29/2019 12:25:27 PM	0
+Aaaaaaaaaa6	F	Bbbbbbbbbb	123 Main Street	*	Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	9/29/2019	9/29/2019 12:25:29 PM	9/29/2019 12:26:23 PM	0
+Aaaaaaaaaa7	F	Bbbbbbbbbb	123 Main Street	*	Dallas	TX	75001	F	1112223333	abc@utdallas.edu	Yes	9/29/2019	9/29/2019 12:26:26 PM	9/29/2019 12:27:07 PM	0
+Aaaaaaaaaa8	F	Bbbbbbbbbb	123 Main Street	*	Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	9/29/2019	9/29/2019 12:27:11 PM	9/29/2019 12:27:47 PM	1
+Aaaaaaaaaa9	F	Bbbbbbbbbb	123 Main Street	*	Dallas	TX	75001	F	1112223333	abc@utdallas.edu	Yes	9/29/2019	9/29/2019 12:27:49 PM	9/29/2019 12:28:31 PM	2
+Aaaaaaaaaa10	F	Bbbbbbbbbb	123 Main Street	*	Dallas	TX	75001	M	1112223333	abc@utdallas.edu	Yes	9/29/2019	9/29/2019 12:28:33 PM	9/29/2019 12:29:29 PM	1
